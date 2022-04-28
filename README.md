@@ -1,4 +1,4 @@
-# compiladores-2021.2
+# Compiladores-2021.2
 Disciplina de Teoria e Implementação de Linguagens Computacionais do Centro de Informática - UFPE
 
 ## Task 01 [RPNStacker Adhoc]
